@@ -5,19 +5,19 @@ This project is a web-based unit conversion tool that allows users to convert be
 1. **Temperature Conversion**  
    - Converts **Celsius** to **Fahrenheit** using the formula:  
      \[
-     (C \times \frac{9}{5}) + 32
+     (C*(9/5)) + 32
      \]
 
 2. **Weight Conversion**  
    - Converts **Kilograms** to **Pounds** using the formula:  
      \[
-     \text{kg} \times 2.205
+     kg*2.205
      \]
 
 3. **Distance Conversion**  
    - Converts **Kilometers** to **Miles** using the formula:  
      \[
-     \text{km} \times 0.62137
+     km*0.62137
      \]
 
 ### **Project Structure**
